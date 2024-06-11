@@ -3,13 +3,13 @@ Video game based on the same mechanics of Minecraft.
 It is a demo and the development stopped a very long time ago.
 It has been developed with Blender and Python. Anyone who watns to tru or to contribute is welcome.
 
-![Capture 1](Capture.png)
+![Capture 1](Capture.PNG)
 
-![Capture 2](Capture2.png)
+![Capture 2](Capture2.PNG)
 
-![Capture 3](Capture3.png)
+![Capture 3](Capture3.PNG)
 
-![Capture 4](Capture4.png)
+![Capture 4](Capture4.PNG)
 
 ## Source
 You may find the source in file **world_of_shapes - Beta1.0.blend**
